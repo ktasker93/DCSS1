@@ -1,0 +1,12 @@
+/*
+* Added to the Apache River distribution by
+* Dr Gary Allen, University of Huddersfield.
+* 
+* This policy file grants full access to all
+* processes.  This is NOT for commercial use,
+* just for ease of testing.
+*/
+
+grant {
+    permission java.security.AllPermission;
+};
